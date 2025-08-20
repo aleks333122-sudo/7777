@@ -1,0 +1,15 @@
+{
+  "name": "slugcity",
+  "version": "1.0.0",
+  "displayName": "Slug City",
+  "scripts": {
+    "android:build": "cordova platform add android && cordova build android"
+  },
+  "cordova": {
+    "platforms": [],
+    "plugins": {}
+  },
+  "devDependencies": {
+    "cordova": "^12.0.0"
+  }
+}
